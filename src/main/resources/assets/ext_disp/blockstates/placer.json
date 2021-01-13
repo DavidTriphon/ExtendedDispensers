@@ -1,0 +1,26 @@
+{
+	"variants":{
+		"facing=down":{
+			"model":"ext_disp:block/placer_vertical",
+			"x":180
+		},
+		"facing=east":{
+			"model":"ext_disp:block/placer",
+			"y":90
+		},
+		"facing=north":{
+			"model":"ext_disp:block/placer"
+		},
+		"facing=south":{
+			"model":"ext_disp:block/placer",
+			"y":180
+		},
+		"facing=up":{
+			"model":"ext_disp:block/placer_vertical"
+		},
+		"facing=west":{
+			"model":"ext_disp:block/placer",
+			"y":270
+		}
+	}
+}

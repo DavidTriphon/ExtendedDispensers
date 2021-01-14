@@ -1,6 +1,6 @@
-package net.davidt.ext_disp.common.blocks;
+package net.davidt.ext_disp.blocks;
 
-import net.davidt.ext_disp.common.tileentities.*;
+import net.davidt.ext_disp.tileentities.*;
 import net.minecraft.block.*;
 import net.minecraft.dispenser.*;
 import net.minecraft.item.*;
@@ -8,7 +8,6 @@ import net.minecraft.tileentity.*;
 import net.minecraft.util.math.*;
 import net.minecraft.world.*;
 import net.minecraft.world.server.*;
-
 
 public class PlacerBlock extends DispenserBlock
 {

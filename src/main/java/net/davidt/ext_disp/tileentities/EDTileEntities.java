@@ -1,6 +1,6 @@
-package net.davidt.ext_disp.common.tileentities;
+package net.davidt.ext_disp.tileentities;
 
-import net.davidt.ext_disp.common.blocks.*;
+import net.davidt.ext_disp.blocks.*;
 import net.minecraft.tileentity.*;
 import net.minecraftforge.fml.*;
 import net.minecraftforge.registries.*;

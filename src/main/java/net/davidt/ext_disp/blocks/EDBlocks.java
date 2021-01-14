@@ -1,4 +1,4 @@
-package net.davidt.ext_disp.common.blocks;
+package net.davidt.ext_disp.blocks;
 
 import net.minecraft.block.*;
 import net.minecraft.block.material.*;

@@ -1,6 +1,6 @@
-package net.davidt.ext_disp.common.items;
+package net.davidt.ext_disp.items;
 
-import net.davidt.ext_disp.common.blocks.*;
+import net.davidt.ext_disp.blocks.*;
 import net.minecraft.item.*;
 import net.minecraftforge.fml.*;
 import net.minecraftforge.registries.*;

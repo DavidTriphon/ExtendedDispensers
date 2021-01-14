@@ -1,4 +1,4 @@
-package net.davidt.ext_disp.common.tileentities;
+package net.davidt.ext_disp.tileentities;
 
 import net.minecraft.tileentity.*;
 import net.minecraft.util.text.*;

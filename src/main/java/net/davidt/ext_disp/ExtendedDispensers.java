@@ -1,8 +1,8 @@
 package net.davidt.ext_disp;
 
-import net.davidt.ext_disp.common.blocks.*;
-import net.davidt.ext_disp.common.items.*;
-import net.davidt.ext_disp.common.tileentities.*;
+import net.davidt.ext_disp.blocks.*;
+import net.davidt.ext_disp.items.*;
+import net.davidt.ext_disp.tileentities.*;
 import net.minecraftforge.eventbus.api.*;
 import net.minecraftforge.fml.common.*;
 import net.minecraftforge.fml.javafmlmod.*;

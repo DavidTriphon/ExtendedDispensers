@@ -17,4 +17,9 @@ public class EDItems
       ITEMS.register("placer", () -> new BlockItem(
          EDBlocks.PLACER.get(), new Item.Properties().tab(ItemGroup.TAB_REDSTONE)
       ));
+
+   public static final RegistryObject <BlockItem> BREAKER =
+      ITEMS.register("breaker", () -> new BlockItem(
+         EDBlocks.BREAKER.get(), new Item.Properties().tab(ItemGroup.TAB_REDSTONE)
+      ));
 }

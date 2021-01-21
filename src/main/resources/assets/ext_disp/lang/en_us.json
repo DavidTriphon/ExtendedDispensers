@@ -1,4 +1,6 @@
 {
 	"container.placer":"Placer",
-	"block.ext_disp.placer":"Placer"
+	"block.ext_disp.placer":"Placer",
+	"container.breaker":"Breaker",
+	"block.ext_disp.breaker":"Breaker"
 }

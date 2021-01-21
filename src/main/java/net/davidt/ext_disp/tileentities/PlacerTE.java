@@ -8,9 +8,8 @@ public class PlacerTE extends DispenserTileEntity
 {
    public PlacerTE()
    {
-      this(EDTileEntities.PLACER.get());
+      this(EDTileEntityTypes.PLACER.get());
    }
-
 
    protected PlacerTE(TileEntityType <?> tileEntityType)
    {

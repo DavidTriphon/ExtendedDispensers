@@ -17,4 +17,9 @@ public class EDBlocks
       BLOCKS.register("placer", () -> new PlacerBlock(
          AbstractBlock.Properties.of(Material.STONE).requiresCorrectToolForDrops().strength(3.5F)
       ));
+
+   public static final RegistryObject <BreakerBlock> BREAKER =
+      BLOCKS.register("breaker", () -> new BreakerBlock(
+         AbstractBlock.Properties.of(Material.STONE).requiresCorrectToolForDrops().strength(3.5F)
+      ));
 }
